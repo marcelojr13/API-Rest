@@ -19,3 +19,11 @@ Flask Python3:
 Check my page on instagram about app that I make!
 - My page is:
   https://www.instagram.com/pandoraprogramming/
+  
+## For run the app in your PC
+
+- First, access myenv folder:
+  source myenv/bin/activate
+
+- After that, just start the app.py:
+  python app.py
